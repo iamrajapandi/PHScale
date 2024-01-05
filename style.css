@@ -1,0 +1,114 @@
+*
+{
+    margin: 0px;
+}
+
+#div{
+    border:10px solid rgb(128, 128, 128);
+    height:fit-content;
+}
+h1{
+    border: 10px solid grey ;
+    border-left: 10px;
+    border-right: 8px;
+    background-color:rgb(208, 202, 202);
+   margin: 0px 0px 0px ;
+
+}
+.marg1
+{
+    border: 1px ridge grey;
+    color: white;
+  background-color: rgba(1, 115, 245, 0.833);
+}
+.marg2
+{
+    border: 1px ridge grey;
+    color: white;
+    background-color: rgba(10, 139, 251, 0.858);
+           
+}
+.marg3
+{
+    border: 1px ridge grey;
+    color: white;
+    background-color: rgba(8, 170, 251 );
+           
+}
+.marg4
+{
+    border: 1px ridge grey;
+    color: white;
+    background-color: rgba(8, 170, 251, 0.936);
+           
+}
+.marg5
+{
+    border: 1px ridge grey;
+    color: white;
+    background-color: rgba(5, 164, 244, 0.737);
+           
+}
+.marg7
+{
+    border: 1px ridge grey;
+    color: white;
+    background-color: rgba(0, 128, 0, 0.938);
+           
+}
+.marg6
+{
+    border: 1px ridge grey;
+    color: white;
+    background-color: rgba(80, 149, 183, 0.82);
+           
+}
+#mar8
+{
+    border:1px ridge grey;
+    color: white;
+    background-color: rgba(199, 103, 135, 0.68);
+
+}
+#mar9
+{
+    border:1px ridge grey;
+    color: white;
+    background-color: rgba(199, 103, 135, 0.811);
+
+}
+#mar10
+{
+    border:1px ridge grey;
+    color: white;
+    background-color: rgba(199, 103, 135, 0.842);
+
+}
+#mar11
+{
+    border:1px ridge grey;
+    color: white;
+    background-color: rgba(199, 103, 135, 0.897);
+
+}
+#mar12
+{
+    border:1px ridge grey;
+    color: white;
+    background-color: rgba(199, 103, 135, 0.941);
+
+}
+#mar13
+{
+    border:1px ridge grey;
+    color: white;
+    background-color: rgba(199, 103, 135, 0.968);
+
+}
+#mar14
+{
+    border:1px ridge grey;
+    color: white;
+    background-color: rgb(199, 103, 135);
+
+}
